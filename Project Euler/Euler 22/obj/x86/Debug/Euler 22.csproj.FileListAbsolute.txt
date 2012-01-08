@@ -1,0 +1,10 @@
+c:\users\tomas\documents\visual studio 2010\Projects\Euler 22\Euler 22\bin\Debug\Euler 22.exe
+c:\users\tomas\documents\visual studio 2010\Projects\Euler 22\Euler 22\bin\Debug\Euler 22.pdb
+c:\users\tomas\documents\visual studio 2010\Projects\Euler 22\Euler 22\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\tomas\documents\visual studio 2010\Projects\Euler 22\Euler 22\obj\x86\Debug\Euler 22.exe
+c:\users\tomas\documents\visual studio 2010\Projects\Euler 22\Euler 22\obj\x86\Debug\Euler 22.pdb
+C:\Users\Tomas\Documents\Visual Studio 2010\Projects\Euler 1\Euler 22\bin\Debug\Euler 22.exe
+C:\Users\Tomas\Documents\Visual Studio 2010\Projects\Euler 1\Euler 22\bin\Debug\Euler 22.pdb
+C:\Users\Tomas\Documents\Visual Studio 2010\Projects\Euler 1\Euler 22\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tomas\Documents\Visual Studio 2010\Projects\Euler 1\Euler 22\obj\x86\Debug\Euler 22.exe
+C:\Users\Tomas\Documents\Visual Studio 2010\Projects\Euler 1\Euler 22\obj\x86\Debug\Euler 22.pdb

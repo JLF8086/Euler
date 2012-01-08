@@ -1,0 +1,10 @@
+c:\users\tomas\documents\visual studio 2010\Projects\Euler 18\Euler 18\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\tomas\documents\visual studio 2010\Projects\Euler 18\Euler 18\bin\Debug\Euler 18.exe
+c:\users\tomas\documents\visual studio 2010\Projects\Euler 18\Euler 18\bin\Debug\Euler 18.pdb
+c:\users\tomas\documents\visual studio 2010\Projects\Euler 18\Euler 18\obj\x86\Debug\Euler 18.exe
+c:\users\tomas\documents\visual studio 2010\Projects\Euler 18\Euler 18\obj\x86\Debug\Euler 18.pdb
+C:\Users\Tomas\Documents\Visual Studio 2010\Projects\Euler 1\Euler 18\bin\Debug\Euler 18.exe
+C:\Users\Tomas\Documents\Visual Studio 2010\Projects\Euler 1\Euler 18\bin\Debug\Euler 18.pdb
+C:\Users\Tomas\Documents\Visual Studio 2010\Projects\Euler 1\Euler 18\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tomas\Documents\Visual Studio 2010\Projects\Euler 1\Euler 18\obj\x86\Debug\Euler 18.exe
+C:\Users\Tomas\Documents\Visual Studio 2010\Projects\Euler 1\Euler 18\obj\x86\Debug\Euler 18.pdb

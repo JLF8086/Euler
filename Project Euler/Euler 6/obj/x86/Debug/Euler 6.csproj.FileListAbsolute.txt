@@ -1,0 +1,5 @@
+c:\users\tomas\documents\visual studio 2010\Projects\Euler 6\Euler 6\bin\Debug\Euler 6.exe
+c:\users\tomas\documents\visual studio 2010\Projects\Euler 6\Euler 6\bin\Debug\Euler 6.pdb
+c:\users\tomas\documents\visual studio 2010\Projects\Euler 6\Euler 6\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\tomas\documents\visual studio 2010\Projects\Euler 6\Euler 6\obj\x86\Debug\Euler 6.exe
+c:\users\tomas\documents\visual studio 2010\Projects\Euler 6\Euler 6\obj\x86\Debug\Euler 6.pdb
