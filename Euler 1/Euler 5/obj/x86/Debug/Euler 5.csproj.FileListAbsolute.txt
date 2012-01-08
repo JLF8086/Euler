@@ -1,5 +1,0 @@
-c:\users\tomas\documents\visual studio 2010\Projects\Euler 5\Euler 5\bin\Debug\Euler 5.exe
-c:\users\tomas\documents\visual studio 2010\Projects\Euler 5\Euler 5\bin\Debug\Euler 5.pdb
-c:\users\tomas\documents\visual studio 2010\Projects\Euler 5\Euler 5\obj\x86\Debug\ResolveAssemblyReference.cache
-c:\users\tomas\documents\visual studio 2010\Projects\Euler 5\Euler 5\obj\x86\Debug\Euler 5.exe
-c:\users\tomas\documents\visual studio 2010\Projects\Euler 5\Euler 5\obj\x86\Debug\Euler 5.pdb

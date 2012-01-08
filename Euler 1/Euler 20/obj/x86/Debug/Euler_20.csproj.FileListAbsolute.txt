@@ -1,5 +1,0 @@
-c:\users\tomas\documents\visual studio 2010\Projects\Euler_20\Euler_20\obj\x86\Debug\ResolveAssemblyReference.cache
-c:\users\tomas\documents\visual studio 2010\Projects\Euler_20\Euler_20\bin\Debug\Euler_20.exe
-c:\users\tomas\documents\visual studio 2010\Projects\Euler_20\Euler_20\bin\Debug\Euler_20.pdb
-c:\users\tomas\documents\visual studio 2010\Projects\Euler_20\Euler_20\obj\x86\Debug\Euler_20.exe
-c:\users\tomas\documents\visual studio 2010\Projects\Euler_20\Euler_20\obj\x86\Debug\Euler_20.pdb
