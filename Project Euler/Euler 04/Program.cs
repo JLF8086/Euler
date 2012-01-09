@@ -34,8 +34,6 @@ namespace Euler_4
                             max = (i * j);
                 }
             Console.WriteLine(max);
-            /*if (isPal("302043"))
-              Console.WriteLine("blet");*/
         }
     }
 }

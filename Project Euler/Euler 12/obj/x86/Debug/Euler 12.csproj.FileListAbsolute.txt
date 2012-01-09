@@ -10,3 +10,5 @@ C:\Users\Tomas\Documents\Visual Studio 2010\Projects\Euler 1\Euler 12\obj\x86\De
 C:\Users\Tomas\Documents\Visual Studio 2010\Projects\Euler 1\Euler 12\obj\x86\Debug\Euler 12.pdb
 C:\Users\Tomas\Euler\Euler 1\Euler 12\obj\x86\Debug\Euler 12.exe
 C:\Users\Tomas\Euler\Euler 1\Euler 12\obj\x86\Debug\Euler 12.pdb
+C:\Users\Tomas\Euler\Project Euler\Euler 12\obj\x86\Debug\Euler 12.exe
+C:\Users\Tomas\Euler\Project Euler\Euler 12\obj\x86\Debug\Euler 12.pdb

@@ -30,7 +30,6 @@ namespace Euler_10
                 }            
             }
             Console.WriteLine(sum);
-            System.Diagnostics.Process.Start("Notepad.exe");
         }
     }
 }
